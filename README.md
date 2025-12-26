@@ -1,6 +1,6 @@
 <!-- Profile Photo -->
 <p align="center">
-  <img src="profile.jpg" width="160" style="border-radius:50%" />
+  <img src="profile.png" width="160" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rida Sater</h1>
