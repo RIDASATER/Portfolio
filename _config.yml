@@ -1,7 +1,6 @@
 # add the following to _config.yml file
 title: Rida SATER
 theme: jekyll-theme-minimal
-title: Shaw Talebi
-logo: /assets/img/headshot_circle.png
+logo: /assets/img.jpg
 #description: text below image
 show_downloads: true
