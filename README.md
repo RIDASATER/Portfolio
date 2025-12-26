@@ -1,8 +1,4 @@
 <!-- Profile Photo -->
-<p align="center">
-  <img src="profile.jpg" width="160" style="border-radius:50%" />
-</p>
-
 <h1 align="center">Rida Sater</h1>
 
 <p align="center">
