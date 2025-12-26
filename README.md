@@ -1,72 +1,67 @@
 <!-- Profile Photo -->
 <p align="center">
-  <img src="profile.png" width="160" style="border-radius:50%" />
+  <img src="profile.jpg" width="160" style="border-radius:50%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rida Sater</h1>
+<h1 align="center">Rida Sater</h1>
 
 <p align="center">
-🎓 Master's Student in <b>Data Science & Information Systems Security</b> <br>
-📍 Beni Mellal, Morocco <br>
-🔍 Seeking <b>Final Year Project (PFE) Internship – Data Science / Machine Learning</b> (Feb 2026)
+Master’s Student in Data Science & Information Systems Security<br>
+Beni Mellal, Morocco<br>
+Seeking Final Year Project (PFE) Internship – Data Science / Machine Learning (February 2026)
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a final-year Master's student in **Data Science**, highly motivated and passionate about **Machine Learning, Artificial Intelligence, and Data-driven solutions**.
+I am a final-year Master’s student in Data Science with a strong interest in Machine Learning and Artificial Intelligence.  
+I have practical experience in data analysis, predictive modeling, text classification, and model deployment through APIs.
 
-I have hands-on experience in:
-- Data analysis & preprocessing
-- Predictive modeling
-- Text classification & NLP
-- Model deployment using APIs
-
-I am currently seeking a **PFE internship** in:
+I am currently seeking a Final Year Project (PFE) internship in:
 - Data Science
 - Machine Learning
 - Artificial Intelligence
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 📊 Data Science & Machine Learning
+### Data Science & Machine Learning
 - Exploratory Data Analysis (EDA)
-- Data preprocessing & feature engineering
-- Regression & classification models
+- Data preprocessing and feature engineering
+- Regression and classification models
 - Model evaluation (Accuracy, Precision, Recall, F1-score)
 - Basics of Natural Language Processing (NLP)
 
-### 🧑‍💻 Programming & Tools
-- **Python** (Pandas, NumPy, Scikit-learn)
-- **SQL**
+### Programming & Tools
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
 - Jupyter Notebook
-- Git & GitHub
+- Git and GitHub
 
-### ⚙️ Deployment & MLOps
+### Deployment & MLOps
 - REST APIs (Flask, FastAPI)
 - MLflow (experiment tracking)
-- Docker (basics)
+- Docker (basic usage)
 
-### 📈 Data Visualization
+### Data Visualization
 - Matplotlib
 - Seaborn
 - Power BI (basic)
 
-### 🗄️ Databases
+### Databases
 - MySQL
 - PostgreSQL
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🏢 Data Science Intern – Technocolabs Software Inc  
-📍 India | 🗓 July 2025 – September 2025
+### Data Science Intern – Technocolabs Software Inc  
+India | July 2025 – September 2025
 
-**Project: Startup Acquisition Prediction Model**
+Project: Startup Acquisition Prediction Model
 
 - Data cleaning, encoding, normalization, and exploratory analysis
 - Feature engineering to improve model performance
@@ -75,59 +70,59 @@ I am currently seeking a **PFE internship** in:
   - Random Forest
   - Support Vector Machine (SVM)
 - Model evaluation using Accuracy and F1-score
-- Deployment of a prediction pipeline via **Flask API**
+- Deployment of a prediction pipeline via a Flask API
 
-**Tech Stack:**  
+Technical environment:  
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Flask, Git, Jupyter Notebook
 
 ---
 
-## 📂 Featured Projects
+## Projects
 
-### 🔹 Text Classification – Machine Learning Pipeline
+### Text Classification – Machine Learning
 - End-to-end text classification pipeline
-- NLP preprocessing and model training
+- NLP preprocessing, model training, and evaluation
 - Experiment tracking and model versioning
 - Preparation for deployment
 
-**Tools:** Python, Scikit-learn, MLflow, NLP, Docker  
-🔗 Repository: *(add link)*
+Tools: Python, Scikit-learn, MLflow, NLP, Docker  
+Repository: Add link here
 
 ---
 
-### 🔹 Credit Scoring Simulation – Predictive Modeling
-- Credit approval prediction using financial data
+### Credit Scoring Simulation – Predictive Modeling
+- Development of a model to predict credit approval based on financial data
 - Data analysis and classification modeling
 - Integration into a web application
 
-**Tools:** Python, Scikit-learn, Flask, SQL  
-🔗 Repository: *(add link)*
+Tools: Python, Scikit-learn, Flask, SQL  
+Repository: Add link here
 
 ---
 
-## 🎓 Education
+## Education
 
-### 🎓 Master of Excellence – Data Science & Information Systems Security  
-**Sultan Moulay Slimane University** | 2024 – Present  
+Master of Excellence in Data Science & Information Systems Security  
+Sultan Moulay Slimane University | 2024 – Present  
 Centre d’Excellence FP – Beni Mellal
 
-### 🎓 Bachelor of Excellence – Data Science & Information Systems Security  
-**Sultan Moulay Slimane University** | 2023 – 2024  
+Bachelor of Excellence in Data Science & Information Systems Security  
+Sultan Moulay Slimane University | 2023 – 2024  
 Centre d’Excellence FP – Beni Mellal
 
-### 🎓 University Diploma of Technology – Systems & Network Administration  
-**Higher School of Technology, Khenifra** | 2021 – 2023
+University Diploma of Technology in Systems and Network Administration  
+Higher School of Technology, Khenifra | 2021 – 2023
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- **Databases and SQL for Data Science with Python** – IBM (2025)
-- **Population and Housing Census Training** – HCP Morocco (2024)
+- Databases and SQL for Data Science with Python – IBM (2025)
+- Population and Housing Census Online Training – HCP Morocco (2024)
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - Arabic: Native
 - French: Intermediate (B2)
@@ -135,13 +130,13 @@ Centre d’Excellence FP – Beni Mellal
 
 ---
 
-## 📫 Contact Me
+## Contact
 
-- 📧 Email: **saterriida@gmail.com**
-- 📞 Phone: **+212 655 120 966**
-- 💼 LinkedIn: https://linkedin.com/in/rida-sater
-- 🐙 GitHub: https://github.com/RIDASATER
+Email: saterriida@gmail.com  
+Phone: +212 655 120 966  
+LinkedIn: https://linkedin.com/in/rida-sater  
+GitHub: https://github.com/RIDASATER
 
 ---
 
-⭐ Feel free to explore my repositories and contact me for internship or collaboration opportunities.
+Feel free to explore my repositories or contact me for internship or collaboration opportunities.
