@@ -128,10 +128,10 @@ Diplôme Universitaire de Technologie en Administration des Systèmes et Réseau
 
 ## Contact
 
-Email : saterriida@gmail.com  
-Téléphone : +212 655 120 966  
-LinkedIn : https://linkedin.com/in/rida-sater  
-GitHub : https://github.com/RIDASATER
+Email : [saterriida@gmail.com](mailto:saterriida@gmail.com)  
+Téléphone : [+212 655 120 966](tel:+212655120966)  
+LinkedIn : [https://linkedin.com/in/rida-sater](https://linkedin.com/in/rida-sater)  
+GitHub : [https://github.com/RIDASATER](https://github.com/RIDASATER)
 
 ---
 
