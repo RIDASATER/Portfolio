@@ -2,7 +2,7 @@
 <h1 align="center">Rida Sater</h1>
 
 <p align="center">
-Étudiante en Master en Data Science & Sécurité des Systèmes d’Information<br>
+Étudiant en Master en Data Science & Sécurité des Systèmes d’Information<br>
 Beni Mellal, Maroc<br>
 Recherche un stage de Projet de Fin d’Études (PFE) – Data Science / Machine Learning (Février 2026)
 </p>
@@ -11,7 +11,7 @@ Recherche un stage de Projet de Fin d’Études (PFE) – Data Science / Machine
 
 ## À propos de moi
 
-Je suis étudiante en dernière année de Master en Data Science avec un intérêt marqué pour le Machine Learning et l’Intelligence Artificielle.  
+Je suis étudiant en dernière année de Master en Data Science avec un intérêt marqué pour le Machine Learning et l’Intelligence Artificielle.  
 J’ai une expérience pratique en analyse de données, modélisation prédictive, classification de texte et déploiement de modèles via des APIs.
 
 Je recherche actuellement un stage de Projet de Fin d’Études (PFE) dans :
