@@ -82,7 +82,6 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Flask, Git, Jupyter Notebook
 - Préparation pour le déploiement
 
 Outils : Python, Scikit-learn, MLflow, NLP, Docker  
-Dépôt : Ajouter le lien ici
 
 ---
 
@@ -92,7 +91,6 @@ Dépôt : Ajouter le lien ici
 - Intégration dans une application web
 
 Outils : Python, Scikit-learn, Flask, SQL  
-Dépôt : Ajouter le lien ici
 
 ---
 
