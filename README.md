@@ -1,138 +1,145 @@
-<!-- Profile Photo -->
-<h1 align="center">Rida Sater</h1>
+<!-- Photo de profil --> <h1 align="center">Rida Sater</h1> <p align="center"> Étudiante en Master en Data Science & Sécurité des Systèmes d’Information<br> Beni Mellal, Maroc<br> Recherche un stage de Projet de Fin d’Études (PFE) – Data Science / Machine Learning (Février 2026) </p>
+À propos de moi
 
-<p align="center">
-Master’s Student in Data Science & Information Systems Security<br>
-Beni Mellal, Morocco<br>
-Seeking Final Year Project (PFE) Internship – Data Science / Machine Learning (February 2026)
-</p>
+Je suis étudiante en dernière année de Master en Data Science avec un intérêt marqué pour le Machine Learning et l’Intelligence Artificielle.
+J’ai une expérience pratique en analyse de données, modélisation prédictive, classification de texte et déploiement de modèles via des APIs.
 
----
+Je recherche actuellement un stage de Projet de Fin d’Études (PFE) dans les domaines suivants :
 
-## About Me
+Data Science
 
-I am a final-year Master’s student in Data Science with a strong interest in Machine Learning and Artificial Intelligence.  
-I have practical experience in data analysis, predictive modeling, text classification, and model deployment through APIs.
+Machine Learning
 
-I am currently seeking a Final Year Project (PFE) internship in:
-- Data Science
-- Machine Learning
-- Artificial Intelligence
+Intelligence Artificielle
 
----
+Compétences techniques
+Data Science & Machine Learning
 
-## Technical Skills
+Analyse exploratoire de données (EDA)
 
-### Data Science & Machine Learning
-- Exploratory Data Analysis (EDA)
-- Data preprocessing and feature engineering
-- Regression and classification models
-- Model evaluation (Accuracy, Precision, Recall, F1-score)
-- Basics of Natural Language Processing (NLP)
+Prétraitement des données et ingénierie des caractéristiques
 
-### Programming & Tools
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL
-- Jupyter Notebook
-- Git and GitHub
+Modèles de régression et de classification
 
-### Deployment & MLOps
-- REST APIs (Flask, FastAPI)
-- MLflow (experiment tracking)
-- Docker (basic usage)
+Évaluation de modèles (Accuracy, Précision, Rappel, F1-score)
 
-### Data Visualization
-- Matplotlib
-- Seaborn
-- Power BI (basic)
+Bases du Traitement Automatique du Langage Naturel (NLP)
 
-### Databases
-- MySQL
-- PostgreSQL
+Programmation & Outils
 
----
+Python (Pandas, NumPy, Scikit-learn)
 
-## Professional Experience
+SQL
 
-### Data Science Intern – Technocolabs Software Inc  
-India | July 2025 – September 2025
+Jupyter Notebook
 
-Project: Startup Acquisition Prediction Model
+Git et GitHub
 
-- Data cleaning, encoding, normalization, and exploratory analysis
-- Feature engineering to improve model performance
-- Training and comparison of classification models:
-  - Logistic Regression
-  - Random Forest
-  - Support Vector Machine (SVM)
-- Model evaluation using Accuracy and F1-score
-- Deployment of a prediction pipeline via a Flask API
+Déploiement & MLOps
 
-Technical environment:  
+REST APIs (Flask, FastAPI)
+
+MLflow (suivi des expérimentations)
+
+Docker (utilisation basique)
+
+Visualisation de données
+
+Matplotlib
+
+Seaborn
+
+Power BI (niveau basique)
+
+Bases de données
+
+MySQL
+
+PostgreSQL
+
+Expérience professionnelle
+Stagiaire Data Science – Technocolabs Software Inc
+
+Inde | Juillet 2025 – Septembre 2025
+
+Projet : Modèle de prédiction d’acquisition de startups
+
+Nettoyage, encodage, normalisation des données et analyse exploratoire
+
+Ingénierie des caractéristiques pour améliorer la performance des modèles
+
+Entraînement et comparaison de modèles de classification :
+
+Régression Logistique
+
+Random Forest
+
+Support Vector Machine (SVM)
+
+Évaluation des modèles avec Accuracy et F1-score
+
+Déploiement d’une pipeline de prédiction via une API Flask
+
+Environnement technique :
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Flask, Git, Jupyter Notebook
 
----
+Projets
+Classification de texte – Machine Learning
 
-## Projects
+Pipeline complet de classification de texte
 
-### Text Classification – Machine Learning
-- End-to-end text classification pipeline
-- NLP preprocessing, model training, and evaluation
-- Experiment tracking and model versioning
-- Preparation for deployment
+Prétraitement NLP, entraînement et évaluation du modèle
 
-Tools: Python, Scikit-learn, MLflow, NLP, Docker  
-Repository: Add link here
+Suivi des expérimentations et versioning du modèle
 
----
+Préparation pour le déploiement
 
-### Credit Scoring Simulation – Predictive Modeling
-- Development of a model to predict credit approval based on financial data
-- Data analysis and classification modeling
-- Integration into a web application
+Outils : Python, Scikit-learn, MLflow, NLP, Docker
+Dépôt : Ajouter le lien ici
 
-Tools: Python, Scikit-learn, Flask, SQL  
-Repository: Add link here
+Simulation de scoring de crédit – Modélisation prédictive
 
----
+Développement d’un modèle pour prédire l’approbation de crédit à partir de données financières
 
-## Education
+Analyse des données et modélisation de classification
 
-Master of Excellence in Data Science & Information Systems Security  
-Sultan Moulay Slimane University | 2024 – Present  
+Intégration dans une application web
+
+Outils : Python, Scikit-learn, Flask, SQL
+Dépôt : Ajouter le lien ici
+
+Formation
+
+Master d’Excellence en Data Science & Sécurité des Systèmes d’Information
+Université Sultan Moulay Slimane | 2024 – Présent
 Centre d’Excellence FP – Beni Mellal
 
-Bachelor of Excellence in Data Science & Information Systems Security  
-Sultan Moulay Slimane University | 2023 – 2024  
+Licence d’Excellence en Data Science & Sécurité des Systèmes d’Information
+Université Sultan Moulay Slimane | 2023 – 2024
 Centre d’Excellence FP – Beni Mellal
 
-University Diploma of Technology in Systems and Network Administration  
-Higher School of Technology, Khenifra | 2021 – 2023
+Diplôme Universitaire de Technologie en Administration des Systèmes et Réseaux
+École Supérieure de Technologie, Khénifra | 2021 – 2023
 
----
+Certifications
 
-## Certifications
+Bases de données et SQL pour la Data Science avec Python – IBM (2025)
 
-- Databases and SQL for Data Science with Python – IBM (2025)
-- Population and Housing Census Online Training – HCP Morocco (2024)
+Formation en ligne sur le Recensement Général de la Population et de l’Habitat – HCP Maroc (2024)
 
----
+Langues
 
-## Languages
+Arabe : Langue maternelle
 
-- Arabic: Native
-- French: Intermediate (B2)
-- English: Intermediate (B2)
+Français : Intermédiaire (B2)
 
----
+Anglais : Intermédiaire (B2)
 
-## Contact
+Contact
 
-Email: saterriida@gmail.com  
-Phone: +212 655 120 966  
-LinkedIn: https://linkedin.com/in/rida-sater  
-GitHub: https://github.com/RIDASATER
+Email : saterriida@gmail.com
 
----
+Téléphone : +212 655 120 966
+LinkedIn : https://linkedin.com/in/rida-sater
 
-Feel free to explore my repositories or contact me for internship or collaboration opportunities.
+GitHub : https://github.com/RIDASATER
